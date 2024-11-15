@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+
+    <string-array name="title_names">
+        <item>Facebook</item>
+        <item>YouTube</item>
+        <item>Twitter</item>
+        <item>Linkedin</item>
+        <item>Messenger</item>
+        <item>Whatsapp</item>
+    </string-array>
+
+    <string-array name="subtitle_names">
+        <item>Social Networking</item>
+        <item>Video Sharing Platform</item>
+        <item>Real Time News Platform</item>
+        <item>Professional Networking</item>
+        <item>Instant Messaging</item>
+        <item>Secure Messaging</item>
+    </string-array>
+
+    <string-array name="platform_descriptions">
+        <item>A social networking platform connecting friends.</item>
+        <item>A video-sharing platform for creators and viewers.</item>
+        <item>A real-time news and microblogging platform.</item>
+        <item>A professional networking platform.</item>
+        <item>An instant messaging app for seamless communication.</item>
+        <item>A secure and popular messaging app worldwide.</item>
+    </string-array>
+
+</resources>
+
